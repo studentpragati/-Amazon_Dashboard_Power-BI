@@ -1,9 +1,10 @@
  ## Project Title Amazon Sales Dashboard
 
 
- ## Project Description
-
+ Project Description :
 This project is an interactive dashboard designed to visualize various sales metrics from Amazon, such as order counts, sales, and profit data. The dashboard employs multiple visual representations, including line graphs, treemaps, bar charts, and gauges, to offer insights into sales performance over time, by product category, and by geographic regions.
+
+
 
 ## Feature
 
